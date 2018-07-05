@@ -1,0 +1,5 @@
+#Pleas follow the steps to execute hellow world file.
+
+#install jdk1.7  to compile and use this command to compile 'javac Helloworld.java'
+#install jre1.7 to run .class file and use this command 'java Hellowworld' to run class file 
+
